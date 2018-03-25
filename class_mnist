@@ -109,3 +109,4 @@ print('Learning Finished!')
 
 print('Accuracy : ',m1.get_accuracy(mnist.test.images,mnist.test.labels))
     
+git add <class_mnist>
